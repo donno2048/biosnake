@@ -1,0 +1,6 @@
+[submodule "snake"]
+	path = snake
+	url = https://github.com/donno2048/snake
+[submodule "combios"]
+	path = combios
+	url = https://github.com/donno2048/combios
